@@ -10,12 +10,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson 8/lesson 8.1.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lesson 7/Lesson 7.1.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="752" />
     <option name="y" value="140" />
     <option name="width" value="982" />
@@ -42,16 +42,6 @@
             <path>
               <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson 7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson 8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -98,7 +88,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
@@ -124,10 +114,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="&quot;update&quot;" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson 8/lesson 8.1.py">
+    <entry file="file://$PROJECT_DIR$/Lesson 7/Lesson 7.1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson 7/Lesson 7.1.py">
+    <entry file="file://$PROJECT_DIR$/lesson 8/lesson 8.1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
