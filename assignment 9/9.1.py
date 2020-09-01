@@ -5,7 +5,7 @@ movie = ['The Notebook', 'Maleficent', 'Batman v Superman', 'Black Swan', 'Gone 
 actor = ['Rachel McAdams', 'Angelina Jolie', 'Gal Gadot', 'Natalie Portman', 'Rosamund Pike', 'Dakota Fanning',
          'Brittany Murphy']
 
-lists = [i+" is played by "+j for (i, j) in list(zip(movie, actor))]
+lists = [i+" is played by "+j for (i, j) in zip(movie, actor)]
 
 print(lists)
 
