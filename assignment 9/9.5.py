@@ -1,3 +1,7 @@
+import random
+import string
+
+
 def cows_and_bulls(string: str, guess: str):
     bools = 0
     hits = 0
@@ -12,6 +16,23 @@ def cows_and_bulls(string: str, guess: str):
         counterG += 1
     counter += 1
     print("bools:", bools, "hits:", hits)
+    if bools == len(string):
+        return True
+    else:
+        return False
 
 
-cows_and_bulls("abcd", "acdz")
+def boolsAndHits():
+    word = ''.join(random.choice(string.ascii_letters) for i in range(random.randint(1, 20)))
+    guess = input("enter your guess:\n")
+    if not guess.isalpha() or None:
+        guess = input("Please enter valid input:")
+    result = cows_and_bulls(word, guess)
+    if result is True:
+        print("You Win!")
+    else:
+        boolsAndHits()
+
+
+boolsAndHits()
+
